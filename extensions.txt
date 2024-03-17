@@ -1,4 +1,4 @@
-git colne --depth 1 https://github.com/hanamizuki-ai/stable-diffusion-webui-localization-zh_Hans
-git colne --depth 1 https://github.com/Physton/sd-webui-prompt-all-in-one
-git colne --depth 1 https://github.com/DominikDoom/a1111-sd-webui-tagcomplete
-git colne --depth 1 https://github.com/SignalFlagZ/sd-webui-civbrowser
+git clone --depth 1 https://github.com/hanamizuki-ai/stable-diffusion-webui-localization-zh_Hans
+git clone --depth 1 https://github.com/Physton/sd-webui-prompt-all-in-one
+git clone --depth 1 https://github.com/DominikDoom/a1111-sd-webui-tagcomplete
+git clone --depth 1 https://github.com/SignalFlagZ/sd-webui-civbrowser
