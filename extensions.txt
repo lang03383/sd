@@ -2,3 +2,4 @@ git clone --depth 1 https://github.com/hanamizuki-ai/stable-diffusion-webui-loca
 git clone --depth 1 https://github.com/Physton/sd-webui-prompt-all-in-one
 git clone --depth 1 https://github.com/DominikDoom/a1111-sd-webui-tagcomplete
 git clone --depth 1 https://github.com/SignalFlagZ/sd-webui-civbrowser
+git clone --depth 1 https://github.com/robertquest/stable-diffusion-batchlinks-downloader
